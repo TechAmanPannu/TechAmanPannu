@@ -1,9 +1,11 @@
 ### Hi, I'm Aman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- 🔭 I’m currently working as Software Developer for Anywhereworks
-- 🌱 I’m currently learning Docker and Kubernetes
-- 💬 Ask me about architecting software to solve real world problems
+<hr style="border:2px solid gray"> </hr> 
+- 🔭 I’m currently working as Software Developer for Anywhereworks<br>
+- 🌱 I’m currently learning Docker and Kubernetes<br>
+- 💬 Ask me about architecting software to solve real world problems<br>
 
 ### Technologies and Tools
+<hr style="border:2px solid gray"> </hr> 
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
@@ -21,7 +23,7 @@
 ![](https://img.shields.io/badge/Tool-Mongodb-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Tool-Redis-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
-You can find me on   [![LinkedIn][1.2]][1].
+### You can find me on   [![LinkedIn][1.2]][1].
 
 
 <!-- Links to your social media accounts -->
